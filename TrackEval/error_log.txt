@@ -1,0 +1,496 @@
+MotChallenge2DBox
+data
+Traceback (most recent call last):
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 114, in evaluate
+    metric_names)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 222, in eval_sequence
+    data = dataset.get_preprocessed_seq_data(raw_data, cls)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/mot_challenge_2d_box.py", line 323, in get_preprocessed_seq_data
+    self._check_unique_ids(raw_data)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/_base_dataset.py", line 315, in _check_unique_ids
+    raise TrackEvalException(exc_str)
+trackeval.utils.TrackEvalException: Tracker predicts the same ID more than once in a single timestep (seq: c025, frame: 3101, ids: 4)
+
+
+
+
+
+MotChallenge2DBox
+data
+Traceback (most recent call last):
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 114, in evaluate
+    metric_names)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 222, in eval_sequence
+    data = dataset.get_preprocessed_seq_data(raw_data, cls)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/mot_challenge_2d_box.py", line 323, in get_preprocessed_seq_data
+    self._check_unique_ids(raw_data)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/_base_dataset.py", line 315, in _check_unique_ids
+    raise TrackEvalException(exc_str)
+trackeval.utils.TrackEvalException: Tracker predicts the same ID more than once in a single timestep (seq: c025, frame: 3101, ids: 4)
+
+
+
+
+
+MotChallenge2DBox
+data
+Traceback (most recent call last):
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 114, in evaluate
+    metric_names)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 222, in eval_sequence
+    data = dataset.get_preprocessed_seq_data(raw_data, cls)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/mot_challenge_2d_box.py", line 323, in get_preprocessed_seq_data
+    self._check_unique_ids(raw_data)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/_base_dataset.py", line 315, in _check_unique_ids
+    raise TrackEvalException(exc_str)
+trackeval.utils.TrackEvalException: Tracker predicts the same ID more than once in a single timestep (seq: c026, frame: 5130, ids: 1)
+
+
+
+
+
+MotChallenge2DBox
+data
+Traceback (most recent call last):
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 114, in evaluate
+    metric_names)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 222, in eval_sequence
+    data = dataset.get_preprocessed_seq_data(raw_data, cls)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/mot_challenge_2d_box.py", line 323, in get_preprocessed_seq_data
+    self._check_unique_ids(raw_data)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/_base_dataset.py", line 315, in _check_unique_ids
+    raise TrackEvalException(exc_str)
+trackeval.utils.TrackEvalException: Tracker predicts the same ID more than once in a single timestep (seq: c027, frame: 9982, ids: 4)
+
+
+
+
+
+MotChallenge2DBox
+data
+Traceback (most recent call last):
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 114, in evaluate
+    metric_names)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 222, in eval_sequence
+    data = dataset.get_preprocessed_seq_data(raw_data, cls)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/mot_challenge_2d_box.py", line 323, in get_preprocessed_seq_data
+    self._check_unique_ids(raw_data)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/_base_dataset.py", line 315, in _check_unique_ids
+    raise TrackEvalException(exc_str)
+trackeval.utils.TrackEvalException: Tracker predicts the same ID more than once in a single timestep (seq: c028, frame: 10556, ids: 5)
+
+
+
+
+
+MotChallenge2DBox
+data
+Traceback (most recent call last):
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 114, in evaluate
+    metric_names)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 222, in eval_sequence
+    data = dataset.get_preprocessed_seq_data(raw_data, cls)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/mot_challenge_2d_box.py", line 323, in get_preprocessed_seq_data
+    self._check_unique_ids(raw_data)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/_base_dataset.py", line 315, in _check_unique_ids
+    raise TrackEvalException(exc_str)
+trackeval.utils.TrackEvalException: Tracker predicts the same ID more than once in a single timestep (seq: c029, frame: 894, ids: 6)
+
+
+
+
+
+MotChallenge2DBox
+data
+Traceback (most recent call last):
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 114, in evaluate
+    metric_names)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 222, in eval_sequence
+    data = dataset.get_preprocessed_seq_data(raw_data, cls)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/mot_challenge_2d_box.py", line 323, in get_preprocessed_seq_data
+    self._check_unique_ids(raw_data)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/_base_dataset.py", line 315, in _check_unique_ids
+    raise TrackEvalException(exc_str)
+trackeval.utils.TrackEvalException: Tracker predicts the same ID more than once in a single timestep (seq: c041, frame: 4018, ids: 3)
+
+
+
+
+
+MotChallenge2DBox
+data
+Traceback (most recent call last):
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 114, in evaluate
+    metric_names)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 222, in eval_sequence
+    data = dataset.get_preprocessed_seq_data(raw_data, cls)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/mot_challenge_2d_box.py", line 323, in get_preprocessed_seq_data
+    self._check_unique_ids(raw_data)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/_base_dataset.py", line 315, in _check_unique_ids
+    raise TrackEvalException(exc_str)
+trackeval.utils.TrackEvalException: Tracker predicts the same ID more than once in a single timestep (seq: c042, frame: 95, ids: 3)
+
+
+
+
+
+MotChallenge2DBox
+data
+Traceback (most recent call last):
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 114, in evaluate
+    metric_names)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 222, in eval_sequence
+    data = dataset.get_preprocessed_seq_data(raw_data, cls)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/mot_challenge_2d_box.py", line 323, in get_preprocessed_seq_data
+    self._check_unique_ids(raw_data)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/_base_dataset.py", line 315, in _check_unique_ids
+    raise TrackEvalException(exc_str)
+trackeval.utils.TrackEvalException: Tracker predicts the same ID more than once in a single timestep (seq: c043, frame: 173, ids: 4)
+
+
+
+
+
+MotChallenge2DBox
+data
+Traceback (most recent call last):
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 114, in evaluate
+    metric_names)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 222, in eval_sequence
+    data = dataset.get_preprocessed_seq_data(raw_data, cls)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/mot_challenge_2d_box.py", line 323, in get_preprocessed_seq_data
+    self._check_unique_ids(raw_data)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/_base_dataset.py", line 315, in _check_unique_ids
+    raise TrackEvalException(exc_str)
+trackeval.utils.TrackEvalException: Tracker predicts the same ID more than once in a single timestep (seq: c044, frame: 178, ids: 7)
+
+
+
+
+
+MotChallenge2DBox
+data
+Traceback (most recent call last):
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 114, in evaluate
+    metric_names)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 222, in eval_sequence
+    data = dataset.get_preprocessed_seq_data(raw_data, cls)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/mot_challenge_2d_box.py", line 323, in get_preprocessed_seq_data
+    self._check_unique_ids(raw_data)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/_base_dataset.py", line 315, in _check_unique_ids
+    raise TrackEvalException(exc_str)
+trackeval.utils.TrackEvalException: Tracker predicts the same ID more than once in a single timestep (seq: c045, frame: 10942, ids: 2)
+
+
+
+
+
+MotChallenge2DBox
+data
+Traceback (most recent call last):
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 114, in evaluate
+    metric_names)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 222, in eval_sequence
+    data = dataset.get_preprocessed_seq_data(raw_data, cls)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/mot_challenge_2d_box.py", line 323, in get_preprocessed_seq_data
+    self._check_unique_ids(raw_data)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/_base_dataset.py", line 315, in _check_unique_ids
+    raise TrackEvalException(exc_str)
+trackeval.utils.TrackEvalException: Tracker predicts the same ID more than once in a single timestep (seq: c046, frame: 1074, ids: 2)
+
+
+
+
+
+MotChallenge2DBox
+data
+Traceback (most recent call last):
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 114, in evaluate
+    metric_names)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 222, in eval_sequence
+    data = dataset.get_preprocessed_seq_data(raw_data, cls)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/mot_challenge_2d_box.py", line 323, in get_preprocessed_seq_data
+    self._check_unique_ids(raw_data)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/_base_dataset.py", line 315, in _check_unique_ids
+    raise TrackEvalException(exc_str)
+trackeval.utils.TrackEvalException: Tracker predicts the same ID more than once in a single timestep (seq: c071, frame: 8007, ids: 1)
+
+
+
+
+
+MotChallenge2DBox
+data
+Traceback (most recent call last):
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 114, in evaluate
+    metric_names)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 222, in eval_sequence
+    data = dataset.get_preprocessed_seq_data(raw_data, cls)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/mot_challenge_2d_box.py", line 371, in get_preprocessed_seq_data
+    ' '.join([str(x) for x in invalid_classes])))
+trackeval.utils.TrackEvalException: Attempting to evaluate using invalid gt classes. This warning only triggers if preprocessing is performed, e.g. not for MOT15 or where prepropressing is explicitly disabled. Please either check your gt data, or disable preprocessing. The following invalid classes were found in timestep 1: -1
+
+
+
+
+
+MotChallenge2DBox
+data
+Traceback (most recent call last):
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 114, in evaluate
+    metric_names)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 222, in eval_sequence
+    data = dataset.get_preprocessed_seq_data(raw_data, cls)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/mot_challenge_2d_box.py", line 323, in get_preprocessed_seq_data
+    self._check_unique_ids(raw_data)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/_base_dataset.py", line 315, in _check_unique_ids
+    raise TrackEvalException(exc_str)
+trackeval.utils.TrackEvalException: Tracker predicts the same ID more than once in a single timestep (seq: c025, frame: 3101, ids: 4)
+
+
+
+
+
+MotChallenge2DBox
+data
+Traceback (most recent call last):
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 114, in evaluate
+    metric_names)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 222, in eval_sequence
+    data = dataset.get_preprocessed_seq_data(raw_data, cls)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/mot_challenge_2d_box.py", line 323, in get_preprocessed_seq_data
+    self._check_unique_ids(raw_data)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/_base_dataset.py", line 315, in _check_unique_ids
+    raise TrackEvalException(exc_str)
+trackeval.utils.TrackEvalException: Tracker predicts the same ID more than once in a single timestep (seq: c099, frame: 15621, ids: 4)
+
+
+
+
+
+MotChallenge2DBox
+data
+Traceback (most recent call last):
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 114, in evaluate
+    metric_names)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 222, in eval_sequence
+    data = dataset.get_preprocessed_seq_data(raw_data, cls)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/mot_challenge_2d_box.py", line 323, in get_preprocessed_seq_data
+    self._check_unique_ids(raw_data)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/_base_dataset.py", line 315, in _check_unique_ids
+    raise TrackEvalException(exc_str)
+trackeval.utils.TrackEvalException: Tracker predicts the same ID more than once in a single timestep (seq: c112, frame: 949, ids: 5)
+
+
+
+
+
+MotChallenge2DBox
+data
+Traceback (most recent call last):
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 114, in evaluate
+    metric_names)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 222, in eval_sequence
+    data = dataset.get_preprocessed_seq_data(raw_data, cls)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/mot_challenge_2d_box.py", line 323, in get_preprocessed_seq_data
+    self._check_unique_ids(raw_data)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/_base_dataset.py", line 315, in _check_unique_ids
+    raise TrackEvalException(exc_str)
+trackeval.utils.TrackEvalException: Tracker predicts the same ID more than once in a single timestep (seq: c113, frame: 5691, ids: 1)
+
+
+
+
+
+MotChallenge2DBox
+data
+Traceback (most recent call last):
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 114, in evaluate
+    metric_names)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 222, in eval_sequence
+    data = dataset.get_preprocessed_seq_data(raw_data, cls)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/mot_challenge_2d_box.py", line 323, in get_preprocessed_seq_data
+    self._check_unique_ids(raw_data)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/_base_dataset.py", line 315, in _check_unique_ids
+    raise TrackEvalException(exc_str)
+trackeval.utils.TrackEvalException: Tracker predicts the same ID more than once in a single timestep (seq: c114, frame: 5688, ids: 4)
+
+
+
+
+
+MotChallenge2DBox
+data
+Traceback (most recent call last):
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 114, in evaluate
+    metric_names)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 222, in eval_sequence
+    data = dataset.get_preprocessed_seq_data(raw_data, cls)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/mot_challenge_2d_box.py", line 323, in get_preprocessed_seq_data
+    self._check_unique_ids(raw_data)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/_base_dataset.py", line 315, in _check_unique_ids
+    raise TrackEvalException(exc_str)
+trackeval.utils.TrackEvalException: Tracker predicts the same ID more than once in a single timestep (seq: c114, frame: 5688, ids: 4)
+
+
+
+
+
+MotChallenge2DBox
+data
+Traceback (most recent call last):
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 114, in evaluate
+    metric_names)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 222, in eval_sequence
+    data = dataset.get_preprocessed_seq_data(raw_data, cls)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/mot_challenge_2d_box.py", line 323, in get_preprocessed_seq_data
+    self._check_unique_ids(raw_data)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/_base_dataset.py", line 315, in _check_unique_ids
+    raise TrackEvalException(exc_str)
+trackeval.utils.TrackEvalException: Tracker predicts the same ID more than once in a single timestep (seq: c115, frame: 1047, ids: 1)
+
+
+
+
+
+MotChallenge2DBox
+data
+Traceback (most recent call last):
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 114, in evaluate
+    metric_names)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 222, in eval_sequence
+    data = dataset.get_preprocessed_seq_data(raw_data, cls)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/mot_challenge_2d_box.py", line 323, in get_preprocessed_seq_data
+    self._check_unique_ids(raw_data)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/_base_dataset.py", line 315, in _check_unique_ids
+    raise TrackEvalException(exc_str)
+trackeval.utils.TrackEvalException: Tracker predicts the same ID more than once in a single timestep (seq: c116, frame: 149, ids: 5)
+
+
+
+
+
+MotChallenge2DBox
+data
+Traceback (most recent call last):
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 114, in evaluate
+    metric_names)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 222, in eval_sequence
+    data = dataset.get_preprocessed_seq_data(raw_data, cls)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/mot_challenge_2d_box.py", line 323, in get_preprocessed_seq_data
+    self._check_unique_ids(raw_data)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/_base_dataset.py", line 315, in _check_unique_ids
+    raise TrackEvalException(exc_str)
+trackeval.utils.TrackEvalException: Tracker predicts the same ID more than once in a single timestep (seq: c117, frame: 2137, ids: 4)
+
+
+
+
+
+MotChallenge2DBox
+data
+Traceback (most recent call last):
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/eval.py", line 153, in evaluate
+    output_fol = dataset.get_output_fol(tracker)
+  File "/home/hoangtv/data/Phong_Dat/aic23/src/top2git/TrackEval/trackeval/datasets/_base_dataset.py", line 54, in get_output_fol
+    return os.path.join(self.output_fol, tracker, self.output_sub_fol)
+  File "/home/hoangtv/data/AIChallenge/anaconda3/envs/evalaic23/lib/python3.7/posixpath.py", line 80, in join
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not list
+
+
+
+
+
